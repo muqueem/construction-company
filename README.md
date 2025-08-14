@@ -1,20 +1,15 @@
 # Construction Company Website
 
-A responsive website for a construction company built with React.js. The site includes a homepage with company introduction, services, and a contact section, and is optimized for both desktop and mobile.
+A responsive website for a construction company built with React.js and React Router. It includes sections for company introduction, services, and contact.
 
-## 🚀 Features
-- Responsive design for desktop and mobile
-- Homepage with:
-  - Company introduction
-  - Services section
-  - Contact section
-- Navigation using React Router
-- Built with modern React functional components and hooks
-
-## 🛠 Tech Stack
-- React.js (Functional Components + Hooks)
+## Tech Stack
+- React.js
 - React Router
-- CSS / Tailwind CSS (based on your project)
-- JavaScript (ES6+)
+- CSS / Tailwind
 
-## 📂 Project Structure
+## Setup
+```bash
+git clone https://github.com/muqueem/construction-company.git
+cd construction-company
+npm install
+npm start
